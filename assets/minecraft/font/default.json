@@ -1,8 +1,8 @@
 {
-  "providers":["type":"bitmap",
+  "providers":[
+    {"type":"bitmap",
     "file":"minecraft:custom/nobody_head_icon.png",
     "ascent":8,"height":8,
-    "chars":["\uDBA3\uDF26"]
-    }
+    "chars":["\uDBA3\uDF26"]}
   ]
 }
