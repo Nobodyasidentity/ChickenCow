@@ -1,0 +1,27 @@
+{
+  "entity.boat.paddle_water": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/boat/paddle_water1", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water2", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water3", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water4", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water5", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water6", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water7", "volume": 0.01 },
+      { "name": "entity/boat/paddle_water8", "volume": 0.01 }
+    ]
+  },
+
+  "entity.boat.paddle_land": {
+    "replace": true,
+    "sounds": [
+      { "name": "entity/boat/paddle_land1", "volume": 0.01 },
+      { "name": "entity/boat/paddle_land2", "volume": 0.01 },
+      { "name": "entity/boat/paddle_land3", "volume": 0.01 },
+      { "name": "entity/boat/paddle_land4", "volume": 0.01 },
+      { "name": "entity/boat/paddle_land5", "volume": 0.01 },
+      { "name": "entity/boat/paddle_land6", "volume": 0.01 }
+    ]
+  }
+}
