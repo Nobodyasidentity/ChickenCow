@@ -1,6 +1,6 @@
 `§4Chicken§6Cow§8§m.zip`  
 Lang files are added when archived.  
-See [lang.json](./lang.json).  
+See [lang.json](./assets/minecraft/lang/lang.json).  
 <details><summary>supporded-ish languages</summary>  
 - sv_se  
 - en_au  
