@@ -1,4 +1,4 @@
-§4Chicken§6Cow§8§m.zip
+`§4Chicken§6Cow§8§m.zip`  
 Lang files are added when archived.  
 See [lang.json](./lang.json).  
 <details><summary>supporded-ish languages</summary>  
