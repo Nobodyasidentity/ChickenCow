@@ -2,26 +2,26 @@
 Lang files are added when archived.  
 See [lang.json](./assets/minecraft/lang/lang.json).  
 <details><summary>supporded-ish languages</summary>  
-- sv_se  \
-- en_au  \
-- en_ca  \
-- en_gb  \
-- en_nz  \
-- en_pt  \
-- en_ud  \
-- en_us  \
-- se_no  \
-- lol_us  \
-- eo_uy  \
-- fi_fi  \
-- jbo_en  \
-- nn_no  \
-- no_no  \
-- ovd  \
-- qya_aa\  
-- tlh_aa \ 
-- tok  \
-- vp_vl \ 
-- kw_gb  \
-- de_de  \
+- sv_se<br>
+- en_au<br>
+- en_ca<br>
+- en_gb<br>
+- en_nz<br>
+- en_pt<br>
+- en_ud<br>
+- en_us<br>
+- se_no<br>
+- lol_us<br>
+- eo_uy<br>
+- fi_fi<br>
+- jbo_en<br>
+- nn_no<br>
+- no_no<br>
+- ovd<br>
+- qya_aa<br>
+- tlh_aa<br>
+- tok<br>
+- vp_vl<br>
+- kw_gb<br>
+- de_de<br>
 </details>
