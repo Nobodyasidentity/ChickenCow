@@ -2,6 +2,7 @@
 Lang files are added when archived.  
 See [lang.json](./assets/minecraft/lang/lang.json).  
 <details><summary>supporded-ish languages</summary>  
+- trustedlang<br>
 - sv_se<br>
 - en_au<br>
 - en_ca<br>
