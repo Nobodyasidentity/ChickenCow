@@ -3,13 +3,13 @@ Sounds:
   Will Wood - BlackBoxWarrior - OKULTRA | Source: https://open.spotify.com/track/6neHVBXUKYRaEQ5NXWrrYr
   ミラクルミュージカル (Miracle Musical) - Labyrinth | Source: https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT
 Textures:
-  The VanillaTweaks Team:
+  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/
     HD Shield Banners
     Clear Banner Patterns
     Arabic Numerals
     No Java Subtitle
   Hibiii:
-    Totem (Soft Toy Shark)
+    Totem (Soft Toy Shark) |  https://github.com/Hibiii/Blahaj
 Models:
   Hibiii:
-    Totem (Soft Toy Shark)
+    Totem (Soft Toy Shark) | https://github.com/Hibiii/Blahaj
