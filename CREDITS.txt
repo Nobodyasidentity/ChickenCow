@@ -1,15 +1,15 @@
 Sounds:
-  Teminite, BoomKitty, Waterflame & Autodidactic - Slash Inferno | Source: https://www.newgrounds.com/audio/listen/1382827 | CC BY-NC-SA 3.0 | audio has been modified from original source | https://creativecommons.org/licenses/by-nc-sa/3.0/
-  Will Wood - BlackBoxWarrior - OKULTRA | Source: ? | ?
-  ミラクルミュージカル (Miracle Musical) - Labyrinth | Source: ? | ?
+  Teminite, BoomKitty, Waterflame & Autodidactic - Slash Inferno | Source: https://www.newgrounds.com/audio/listen/1382827 | License: CC BY-NC-SA 3.0 | audio has been modified from original source | https://creativecommons.org/licenses/by-nc-sa/3.0/
+  Will Wood - BlackBoxWarrior - OKULTRA | Source: ? | License: ?
+  ミラクルミュージカル (Miracle Musical) - Labyrinth | Source: ? | License: ?
 Textures:
-  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/ | MIT License | https://github.com/brndd/vanilla-tweaks/blob/master/LICENSE.txt
+  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/ | License: MIT License | https://github.com/brndd/vanilla-tweaks/blob/master/LICENSE.txt
     HD Shield Banners
     Clear Banner Patterns
     Arabic Numerals
     No Java Subtitle
   Hibiii:
-    Totem (Soft Toy Shark) |  https://github.com/Hibiii/Blahaj | licenceless
+    Totem (Soft Toy Shark) |  https://github.com/Hibiii/Blahaj | License: licenceless
 Models:
   Hibiii:
-    Totem (Soft Toy Shark) | https://github.com/Hibiii/Blahaj | licenceless
+    Totem (Soft Toy Shark) | https://github.com/Hibiii/Blahaj | License: licenceless
