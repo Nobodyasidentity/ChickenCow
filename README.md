@@ -27,8 +27,6 @@ See [lang.json](./assets/minecraft/lang/lang.json).
 - de_de<br>
 </details>
 <details><summary>MIT-License</summary>
-MIT License<br>
-<br>
 Copyright (c) 2026 Nobodyasidentity<br>
 <br>
 Permission is hereby granted, free of charge, to any person obtaining a copy<br>
