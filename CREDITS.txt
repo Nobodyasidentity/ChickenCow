@@ -3,7 +3,7 @@ Sounds:
   Will Wood - BlackBoxWarrior - OKULTRA | Source: ? | ?
   ミラクルミュージカル (Miracle Musical) - Labyrinth | Source: ? | ?
 Textures:
-  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/ | MIT License
+  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/ | MIT License | https://github.com/brndd/vanilla-tweaks/blob/master/LICENSE.txt
     HD Shield Banners
     Clear Banner Patterns
     Arabic Numerals
