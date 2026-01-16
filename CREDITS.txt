@@ -1,15 +1,15 @@
 Sounds:
-  Teminite, BoomKitty, Waterflame & Autodidactic - Slash Inferno | Source: https://www.newgrounds.com/audio/listen/1382827
+  Teminite, BoomKitty, Waterflame & Autodidactic - Slash Inferno | Source: https://www.newgrounds.com/audio/listen/1382827 | CC BY-NC-SA 3.0
   Will Wood - BlackBoxWarrior - OKULTRA | Source: https://open.spotify.com/track/6neHVBXUKYRaEQ5NXWrrYr
   ミラクルミュージカル (Miracle Musical) - Labyrinth | Source: https://open.spotify.com/track/0L7MpEwFgZRP5rFdXOYaRT
 Textures:
-  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/
+  The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/ | MIT License
     HD Shield Banners
     Clear Banner Patterns
     Arabic Numerals
     No Java Subtitle
   Hibiii:
-    Totem (Soft Toy Shark) |  https://github.com/Hibiii/Blahaj
+    Totem (Soft Toy Shark) |  https://github.com/Hibiii/Blahaj | licenceless
 Models:
   Hibiii:
-    Totem (Soft Toy Shark) | https://github.com/Hibiii/Blahaj
+    Totem (Soft Toy Shark) | https://github.com/Hibiii/Blahaj | licenceless
