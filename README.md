@@ -1,7 +1,4 @@
 > `§4Chicken§6Cow§8§m.zip`
-> <details><summary><b>Dependencies</b></summary>
-> <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
-> </details>
 
 ![banner](https://cdn.modrinth.com/data/B6Jhw4Nm/images/fd582082582533a72932783fd2809bfe87329929.png)
 **ChickenCow**, a resourcepack focused mainly on quality-of-life while offering some unique stuff like the IKEA blåhaj plushie as a totem  
@@ -18,3 +15,5 @@ some of the features are:
   - ミラクルミュージカル - Labyrinth
 - different textures for banner patterns
 - quieter boats
+## Dependencies  
+- <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
