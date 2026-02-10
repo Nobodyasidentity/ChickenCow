@@ -1,6 +1,6 @@
 > `§4Chicken§6Cow§8§m.zip`
 > <details><summary><b>Dependencies</b></summary>
-> [\[ETF\]Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+> <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
 > </details>
 
 ![banner](https://cdn.modrinth.com/data/B6Jhw4Nm/images/fd582082582533a72932783fd2809bfe87329929.png)
