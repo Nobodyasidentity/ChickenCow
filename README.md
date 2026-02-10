@@ -17,3 +17,9 @@ some of the features are:
 - quieter boats
 ## Dependencies  
 - <b><a href="https://modrinth.com/mod/entitytexturefeatures">[ETF] Entity Texture Features</a></b>
+## 🖼️ Gallery
+![shields](https://cdn.modrinth.com/data/B6Jhw4Nm/images/3cd716ade5811742779535fde9e87fc987a152c0.png)
+![axolotls](https://cdn.modrinth.com/data/B6Jhw4Nm/images/a70cd0288e39ed020eeeba31a9da18e1756fbeb1.png)
+![totem](https://cdn.modrinth.com/data/B6Jhw4Nm/images/b86aa5ce4c617e5d62a4fb58c01decbe2895ed53.png)
+![discs](https://cdn.modrinth.com/data/B6Jhw4Nm/images/c9d757842244014f6dcbacc2ff968169d8d7f33e.png)
+![epsteinian (experimental)](https://cdn.modrinth.com/data/B6Jhw4Nm/images/d422ca60e40080bedf92f76d0f37b4c44c21dae8.png)
