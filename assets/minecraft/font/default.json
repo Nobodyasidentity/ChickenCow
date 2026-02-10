@@ -3,6 +3,10 @@
     {"type":"bitmap",
     "file":"minecraft:custom/nobody_head_icon.png",
     "ascent":8,"height":8,
-    "chars":["\uDBA3\uDF26"]}
+    "chars":["\uDBA3\uDF26"]},
+    {"type":"bitmap",
+    "file":"minecraft:custom/square.png",
+    "ascent":7,"height":8,
+    "chars":["\u2588"]}
   ]
 }
