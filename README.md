@@ -1,4 +1,5 @@
-> `§4Chicken§6Cow§8§m.zip`
+> `§4Chicken§6Cow§8§m.zip`  
+> https://modrinth.com/resourcepack/chickencow
 
 ![banner](https://cdn.modrinth.com/data/B6Jhw4Nm/images/fd582082582533a72932783fd2809bfe87329929.png)
 **ChickenCow**, a resourcepack focused mainly on quality-of-life while offering some unique stuff like the IKEA blåhaj plushie as a totem  
