@@ -2,7 +2,7 @@
     "pack": { 
         "pack_format":15,"min_format":[15,0],"max_format":[1000,0],"supported_formats":[15,1000],
         "description":[
-            "§7v§r2.0-pre3§8-§61.21.11\n§c§k| §7By §4Nobodyasidentity §f\uDBA3\uDF26 §c§k|"
+            "§7v§r2.0§8-§61.21.11\n§c§k| §7By §4Nobodyasidentity §f\uDBA3\uDF26 §c§k|"
         ]
     },
     "language": {
@@ -13,3 +13,4 @@
 		}
 	}
 }
+
