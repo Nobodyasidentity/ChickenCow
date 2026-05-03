@@ -5,7 +5,6 @@ Sounds:
 Textures:
   The VanillaTweaks Team: | https://vanillatweaks.net/picker/resource-packs/ | License: MIT License | https://github.com/brndd/vanilla-tweaks/blob/master/LICENSE.txt
     HD Shield Banners
-    Clear Banner Patterns
     Arabic Numerals
     No Java Subtitle
   Hibiii:
@@ -13,3 +12,6 @@ Textures:
 Models:
   Hibiii:
     Totem (Soft Toy Shark) | https://github.com/Hibiii/Blahaj | License: licenceless
+Fonts:
+  Claude:
+    u2588.ttf | ? | License: ?
